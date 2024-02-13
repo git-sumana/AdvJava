@@ -5,3 +5,4 @@
 4. Abstract and Anonymous Inner Class (AbsAnonyInnerClass)
 5. Basic Program on Interfaces (InterfacesEx.java)
 6. Multiple Interfaces and using extends and implements (MultipleInterfaces.java)
+7. Working more on Interfaces (MoreOnInterfaces.java)
