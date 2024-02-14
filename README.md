@@ -9,3 +9,4 @@
 8. Introduction to Enumeration / enum (EnumEx.java)
 9. Enum with if cases/ switch case (eSwitch.java)
 10. Using Getter and Setters with Enum Objects and Parameters (GetSettersEx.java)
+11. Basic Annotations (Ann.java)
