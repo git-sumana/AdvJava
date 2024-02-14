@@ -14,3 +14,4 @@
 13. Lambda Expression (LambdaEx.java)
 14. Returning a value using Lambda expression (ReturnWithLambda.java)
 15. Exception Handling: Division By Zero (DivByZeroEx.java)
+16. Single Try and Multiple Catch blocks (MulCatch.java)
