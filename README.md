@@ -13,3 +13,4 @@
 12. Functional Interface with Anonymous Class (FunctionalIntEx.java)
 13. Lambda Expression (LambdaEx.java)
 14. Returning a value using Lambda expression (ReturnWithLambda.java)
+15. Exception Handling: Division By Zero (DivByZeroEx.java)
