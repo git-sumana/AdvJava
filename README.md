@@ -10,3 +10,4 @@
 9. Enum with if cases/ switch case (eSwitch.java)
 10. Using Getter and Setters with Enum Objects and Parameters (GetSettersEx.java)
 11. Basic Annotations (Ann.java)
+12. Functional Interface with Anonymous Class (FunctionalIntEx.java)
