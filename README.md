@@ -21,3 +21,4 @@
 Scanner class (UserInputs.java)
 21. Try with resources / finally (TryWithResource.java)
 22. Introduction to Multi-threading (MultiThreads.java)
+23. Setting the priority to the thread and get the priority value (PriorityThread.java)
