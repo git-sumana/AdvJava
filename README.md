@@ -24,4 +24,4 @@ Scanner class (UserInputs.java)
 22. Introduction to Multi-threading (MultiThreads.java)
 23. Setting the priority to the thread and get the priority value (PriorityThread.java)
 24. Multi Threading using Runnable interface rather than Thread class (MulThreadRunnable.java)
-25. 
+25. Using Lambda function in Multi Threading (MultiThreadWithLambda.java)
