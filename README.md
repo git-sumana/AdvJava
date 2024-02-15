@@ -16,3 +16,7 @@
 15. Exception Handling: Division By Zero (DivByZeroEx.java)
 16. Single Try and Multiple Catch blocks (MulCatch.java)
 17. Creating a Custom Exception (CustomExpHandle.java)
+18. An Example for Multiple Exception Handling (ExceptionEx.java)
+20. Taking the input(s) from the user using Std Input Stream, BufferedReader and
+Scanner class (UserInputs.java)
+21. 
