@@ -1,0 +1,29 @@
+import java.util.*;
+import java.io.*;
+
+//Run the classes individually and comment the other while one is running
+
+public class UserInputs
+{
+	public static void main(String[] args) throws IOException {
+		
+		//For ASCII and Single Character
+		System.out.println("Enter any value!");
+		int ascii_value=System.in.read();
+		System.out.println("ASCII: "+ ascii_value);
+		
+		//BufferedReader
+		System.out.println("Enter a Value");
+
+		BufferedReader bf=new BufferedReader(new InputStreamReader(System.in));
+		String num=bf.readLine();
+		System.out.println("Value: "+ num);
+		
+		//Scanner Class
+		System.out.println("Enter integer Value");
+		
+        Scanner s=new Scanner(System.in);
+        int n=s.nextInt();
+        System.out.println("Value: "+ n);
+	}
+}
