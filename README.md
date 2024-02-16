@@ -27,5 +27,6 @@ Scanner class (UserInputs.java)
 25. Using Lambda function in Multi Threading (MultiThreadWithLambda.java)
 26. Introduction to Collection API using ArrayList(CollectionEx.java)
 27. Using set in collection (SetEx.java)
-28. Implementing Exception Handling with Collection (Map) (Collection_Exception)
-29. 
+28. Introduction to Map in Collection (MapEx.java)
+29. Implementing Exception Handling with Collection (Map) (Collection_Exception)
+30. 
