@@ -30,4 +30,4 @@ Scanner class (UserInputs.java)
 28. Introduction to Map in Collection (MapEx.java)
 29. Comparator class to compare the values (ComparatorEx.java)
 30. Implementing Exception Handling with Collection (Map) (Collection_Exception)
-31. 
+31. Introducing forEach function (ForEach.java)
