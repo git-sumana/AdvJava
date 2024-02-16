@@ -28,5 +28,6 @@ Scanner class (UserInputs.java)
 26. Introduction to Collection API using ArrayList(CollectionEx.java)
 27. Using set in collection (SetEx.java)
 28. Introduction to Map in Collection (MapEx.java)
-29. Implementing Exception Handling with Collection (Map) (Collection_Exception)
-30. 
+29. Comparator class to compare the values (ComparatorEx.java)
+30. Implementing Exception Handling with Collection (Map) (Collection_Exception)
+31. 
