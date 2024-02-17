@@ -1,5 +1,6 @@
-![Advanced Java](https://www.datapro.in/uploads/19bb9d3025ebdad2986693f18afe08e4.jpg)
-
+<p align="center">
+  <img src="https://www.superprof.co.in/blog/wp-content/uploads/2022/12/advance-java-training.jpg" alt="Advanced Java">
+</p>
 ### Advanced Java Foundation
 
 1. Abstract Class (UsingAbsClass.java)
