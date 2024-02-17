@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://www.superprof.co.in/blog/wp-content/uploads/2022/12/advance-java-training.jpg" alt="Advanced Java">
 </p>
-### Advanced Java Foundation
 
+<h3>Advanced Java Concepts</h3>
 1. Abstract Class (UsingAbsClass.java)
 2. Inner Class (InnerCls.java)
 3. Anonymous Inner Class (AnonymousInnerClass.java)
