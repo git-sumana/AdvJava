@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://www.superprof.co.in/blog/wp-content/uploads/2022/12/advance-java-training.jpg" alt="Advanced Java">
 </p>
-
-<h3>Advanced Java Concepts</h3>
-<p>
 1. Abstract Class (UsingAbsClass.java)
 2. Inner Class (InnerCls.java)
 3. Anonymous Inner Class (AnonymousInnerClass.java)
@@ -37,4 +34,3 @@ Scanner class (UserInputs.java)
 31. Introducing forEach function (ForEach.java)
 32. Print and integer data manupulation Using Stream API (StreamApi.java)
 33. Using Map, Filter and Reduce with Stream API (MapFilterReduce.java)
-</p>
