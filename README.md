@@ -34,3 +34,6 @@ Scanner class (UserInputs.java)<br>
 31. Introducing forEach function (ForEach.java)<br>
 32. Print and integer data manupulation Using Stream API (StreamApi.java)<br>
 33. Using Map, Filter and Reduce with Stream API (MapFilterReduce.java)<br>
+<p align="center">
+  <img src="https://leftbraincraftbrain.com/wp-content/uploads/2018/11/thank-you-green.png" alt="Thank You">
+</p>
