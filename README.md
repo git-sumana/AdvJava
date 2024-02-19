@@ -34,6 +34,10 @@ Scanner class (UserInputs.java)<br>
 31. Introducing forEach function (ForEach.java)<br>
 32. Print and integer data manupulation Using Stream API (StreamApi.java)<br>
 33. Using Map, Filter and Reduce with Stream API (MapFilterReduce.java)<br>
+34. Creating a new file using IO Operations (CreateFile.java)<br>
+35. Writing the contents into file using Stream package (WiteFile.java)<br>
+36. Reading of data in a specfied file (ReadFile.java)<br>
+37. Getting the information of the file using different IO Functions (FileInfo.java)<br><br>
 <p align="center">
   <img src="https://leftbraincraftbrain.com/wp-content/uploads/2018/11/thank-you-green.png" alt="Thank You">
 </p>
