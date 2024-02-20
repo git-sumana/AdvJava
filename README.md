@@ -37,7 +37,8 @@ Scanner class (UserInputs.java)<br>
 34. Creating a new file using IO Operations (CreateFile.java)<br>
 35. Writing the contents into file using Stream package (WiteFile.java)<br>
 36. Reading of data in a specfied file (ReadFile.java)<br>
-37. Getting the information of the file using different IO Functions (FileInfo.java)<br><br>
+37. Getting the information of the file using different IO Functions (FileInfo.java)<br>
+38. Creating and handling of CSV file with huge amount of data (RandomEx.java)<br><br>
 <p align="center">
   <img src="https://leftbraincraftbrain.com/wp-content/uploads/2018/11/thank-you-green.png" alt="Thank You">
 </p>
