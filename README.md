@@ -24,7 +24,7 @@ Scanner class (UserInputs.java)<br>
 21. Try with resources / finally (TryWithResource.java)<br>
 22. Introduction to Multi-threading (MultiThreads.java)<br>
 23. Setting the priority to the thread and get the priority value (PriorityThread.java)<br>
-24. Multi Threading using Runnable interface rather than Thread class (MulThreadRunnable.java)<br>
+24. Multi Threading using Runnable interface rather than Thread class (MulThreadRunnable.java) and Thread Functions (ThreadFunctions.java)<br>
 25. Using Lambda function in Multi Threading (MultiThreadWithLambda.java)<br>
 26. Introduction to Collection API using ArrayList(CollectionEx.java)<br>
 27. Using set in collection (SetEx.java)<br>
