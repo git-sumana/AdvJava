@@ -1,0 +1,39 @@
+Java Coding Standards
+├── Naming Conventions
+│   ├── Classes: Use nouns or noun phrases, starting with an uppercase letter
+│   ├── Methods: Use verbs or verb phrases, starting with a lowercase letter
+│   ├── Variables: Use meaningful names, starting with a lowercase letter
+│   └── Constants: Use uppercase letters with underscores separating words
+├── Indentation and Formatting
+│   ├── Use consistent indentation (4 spaces or a tab)
+│   ├── Use braces {} even for single-line control statements
+│   ├── Break long lines of code for readability
+│   └── Align similar code blocks vertically
+├── Comments
+│   ├── Write clear and concise comments
+│   ├── Use Javadoc comments for documentation
+│   └── Avoid redundant comments
+├── Exception Handling
+│   ├── Catch specific exceptions
+│   ├── Handle exceptions gracefully
+│   └── Avoid catching exceptions if unable to handle properly
+├── Concurrency and Multithreading
+│   ├── Synchronize shared resources
+│   ├── Use higher-level concurrency utilities
+│   └── Follow best practices for thread safety
+├── Performance Considerations
+│   ├── Minimize object creation
+│   ├── Prefer efficient data structures and algorithms
+│   └── Profile code for performance optimization
+├── Package and Module Structure
+│   ├── Organize classes into meaningful packages
+│   ├── Follow encapsulation principle
+│   └── Use access modifiers appropriately
+├── Testing and Documentation
+│   ├── Write unit and integration tests
+│   ├── Document assumptions and design decisions
+│   └── Maintain up-to-date documentation
+└── Code Reusability and Maintainability
+    ├── Strive for modular, reusable code
+    ├── Refactor code regularly
+    └── Use design patterns and architectural principles
